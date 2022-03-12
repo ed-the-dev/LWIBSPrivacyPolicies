@@ -6,8 +6,6 @@ This is a cross platform app developed by Ed Walpole. The app is available on Go
 
 This app collects your responses and usage statistics for analysis by a doctoral student. Data is encrypted during transfer to Google's firebase database.
 
-Deleting your account allows you to delete all data stored on the firebase database and also locally. 
-
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely,  
